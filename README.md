@@ -32,7 +32,7 @@ ruff IoT Blockchain code base, forked from `buckyos/chainsdk`.
 RuffVM is a small embeddable VM provides security, isolate execution environment for run DApp(Decentralized application), aim to provide a Uniform Blockchain DApp runtime
 
 ### Shepherd
-This bootstrap and orchestrate tools for Blockchain, it is the Best practice of Ruff IoT Blockchain [Ruff IoT Blockchain white paper](https://github.com/RuffNotes/RuffChain/blob/master/WhitePaper.md)
+The bootstrap and orchestrate tools for Blockchain, it is the Best practice of Ruff IoT Blockchain [Ruff IoT Blockchain white paper](https://github.com/RuffNotes/RuffChain/blob/master/WhitePaper.md)
 
 ## History
 
